@@ -1,6 +1,6 @@
 ## Olá! sou André Souza,
 
-- 📖 Cursando Técnico DS
+- 📖 Cursando Técnico em Desenvolvimento de Sistemas - Instituição Etec "Machado de Assis"
 - 🌱 Iniciando os estudos em "JavaScript"
 
 ## 
